@@ -1,0 +1,11 @@
+]633;E;echo '$ git branch -vv';e674a3d6-b70a-4d34-b96a-ba90b977ec3a]633;C$ git branch -vv
+* bug-fix-revert cbf33b9 Add bug fix revert verification
+  bug-fix-typo   94b6f97 Fix typo in README footer
+  main           cea0314 [origin/main] Add merge output
+$ git status
+On branch bug-fix-revert
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	github-branches
+
+nothing added to commit but untracked files present (use "git add" to track)
